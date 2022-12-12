@@ -1,0 +1,40 @@
+.navbar{background-color: red;
+    font-family:'Khula', sans-serif;
+    font-size: 25px;
+}
+.navbar-brand{
+    /* font-family:'Khula', sans-serif; */
+    font-size: 40px;
+}
+.navbar-nav{
+    margin-left: 200px;
+}
+.navbar-nav .nav-item{
+    margin-left: 20px;
+}
+.main-icon{
+    font-size: 30px;
+    margin-left: 20px;
+}
+.main-icon:hover{
+    color: red;
+}
+.full-view{
+    border: 2px solid black;
+    text-decoration: none;
+}
+.full-view:hover{
+    background-color: white;
+  transition: 0.3s;
+}
+.col-md-2:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+
+}
+.kavi{
+    overflow-x: auto;
+}
+.ite{
+    width: 100px;
+}
